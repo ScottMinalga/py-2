@@ -1,0 +1,5 @@
+Brian,Candido,42500
+Moose,Bassador,75000
+Daniel,Patrick,67000
+Joseph,Christopher,92000
+Brad,Michaels,49750.26
